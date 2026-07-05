@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+mindmatrix/
+chroma_db/
+models/
+.idea/
+.vscode/
